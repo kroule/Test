@@ -5,6 +5,7 @@
 *.aab
 
 **/1
+**/ProjectFiles/.idea/
 
 # Files for the ART/Dalvik VM
 *.dex
